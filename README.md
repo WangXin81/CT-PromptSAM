@@ -7,7 +7,7 @@ Collaborative Prompting with Hybrid CNN-Transformer for Remote Sensing Semantic 
 3. testing: test.py
 
 ## Figs
-![image](https://github.com/WangXin81/CT-PromptSAM/CT-PromptingSAM.png)
+![image](https://github.com/WangXin81/CT-PromptSAM/blob/master/CT-PromptSAM.png)
 
 ## Datasets
 Potsdam & Vaihingen【https://www.isprs.org/education/benchmarks/UrbanSemLab/default.aspx】
